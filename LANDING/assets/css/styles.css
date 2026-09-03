@@ -324,7 +324,6 @@ tfoot td, table th {
     color: var(--primary-color);
 }
 
-/* RODAPÉ E BOTÃO VOLTAR AO TOPO */
 .footer {
     text-align: center;
     font-size: 1.6rem;
@@ -354,7 +353,6 @@ tfoot td, table th {
     border: 0.1rem solid var(--primary-color);
 }
 
-/* RESPONSIVIDADE (MOBILE) */
 @media (max-width: 800px) {
     .intro-content, .grid {
         grid-template-columns: 1fr;
